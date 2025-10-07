@@ -1,1 +1,1 @@
-web page:https://file:///D:/chat%20application%20ui.html
+web page:https://asiva-s-r.github.io/Chat_Application_UI/chat%20application%20ui.html
